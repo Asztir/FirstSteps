@@ -4,9 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="916433c7-210a-4495-a2aa-e1a906676e9e" name="Changes" comment="MaxOfThree">
-      <change afterPath="$PROJECT_DIR$/src/main/java/Petle/UdemySwitch.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Petle/UdemyZad1.java" afterDir="false" />
+    <list default="true" id="916433c7-210a-4495-a2aa-e1a906676e9e" name="Changes" comment="else if, switch">
+      <change afterPath="$PROJECT_DIR$/src/main/java/Petle/UdemyZad2.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -39,7 +38,7 @@
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.UdemySwitch">
+  <component name="RunManager" selected="Application.UdemyZad2">
     <configuration name="MaxOfThree" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Petle.MaxOfThree" />
       <module name="FirstSteps" />
@@ -79,8 +78,22 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="UdemyZad2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Petle.UdemyZad2" />
+      <module name="FirstSteps" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Petle.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.UdemyZad2" />
         <item itemvalue="Application.UdemySwitch" />
         <item itemvalue="Application.UdemyZad1" />
         <item itemvalue="Application.MaxOfThree" />
@@ -103,7 +116,14 @@
       <option name="project" value="LOCAL" />
       <updated>1660302197046</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="else if, switch">
+      <created>1661359501765</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1661359501765</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -119,6 +139,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="MaxOfThree" />
-    <option name="LAST_COMMIT_MESSAGE" value="MaxOfThree" />
+    <MESSAGE value="else if, switch" />
+    <option name="LAST_COMMIT_MESSAGE" value="else if, switch" />
   </component>
 </project>
