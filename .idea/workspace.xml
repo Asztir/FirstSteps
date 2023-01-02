@@ -4,11 +4,25 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="916433c7-210a-4495-a2aa-e1a906676e9e" name="Changes" comment="zadanie2 petle">
-      <change afterPath="$PROJECT_DIR$/src/main/java/ClassMethod/Student.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ClassMethod/StudentTestClass.java" afterDir="false" />
+    <list default="true" id="916433c7-210a-4495-a2aa-e1a906676e9e" name="Changes" comment="class and method">
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ClassMethod/App.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ClassMethod/AppAndroid.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ClassMethod/AppIphon.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ClassMethod/AppTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ClassMethod/Calculator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ClassMethod/CalculatorNumbers.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ClassMethod/Car.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ClassMethod/ConstructorCar.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ClassMethod/IngeritanceDaughter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ClassMethod/InheritancePerson.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ClassMethod/InheritanceSon.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ClassMethod/InheritanceTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ClassMethod/User.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ClassMethod/UserTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Petle/UdemyZad2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Petle/UdemyZad2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ClassMethod/Student.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ClassMethod/Student.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ClassMethod/StudentTestClass.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ClassMethod/StudentTestClass.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -34,19 +48,48 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "/Users/asztir/Desktop/Nauka_Java/FirstSteps"
   }
-}</component>
-  <component name="RunManager" selected="Application.ClassMethod.StudentTestClass">
-    <configuration name="MaxOfThree" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Petle.MaxOfThree" />
+}]]></component>
+  <component name="RunManager" selected="Application.AppTest">
+    <configuration name="AppTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ClassMethod.AppTest" />
       <module name="FirstSteps" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Petle.*" />
+          <option name="PATTERN" value="ClassMethod.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Car" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ClassMethod.Car" />
+      <module name="FirstSteps" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ClassMethod.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="InheritanceTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ClassMethod.InheritanceTest" />
+      <module name="FirstSteps" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ClassMethod.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -67,38 +110,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="UdemySwitch" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Petle.UdemySwitch" />
+    <configuration name="UserTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ClassMethod.UserTest" />
       <module name="FirstSteps" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Petle.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="UdemyZad1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Petle.UdemyZad1" />
-      <module name="FirstSteps" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Petle.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="UdemyZad2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Petle.UdemyZad2" />
-      <module name="FirstSteps" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Petle.*" />
+          <option name="PATTERN" value="ClassMethod.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -108,11 +125,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.AppTest" />
+        <item itemvalue="Application.InheritanceTest" />
         <item itemvalue="Application.ClassMethod.StudentTestClass" />
-        <item itemvalue="Application.UdemyZad2" />
-        <item itemvalue="Application.UdemySwitch" />
-        <item itemvalue="Application.UdemyZad1" />
-        <item itemvalue="Application.MaxOfThree" />
+        <item itemvalue="Application.Car" />
+        <item itemvalue="Application.UserTest" />
       </list>
     </recent_temporary>
   </component>
@@ -124,6 +141,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1660297212465</updated>
+      <workItem from="1672653127676" duration="3714000" />
     </task>
     <task id="LOCAL-00001" summary="MaxOfThree">
       <created>1660302197046</created>
@@ -146,8 +164,18 @@
       <option name="project" value="LOCAL" />
       <updated>1661500905067</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="class and method">
+      <created>1661859699269</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1661859699269</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
     <option name="TAB_STATES">
@@ -164,6 +192,7 @@
     <MESSAGE value="MaxOfThree" />
     <MESSAGE value="else if, switch" />
     <MESSAGE value="zadanie2 petle" />
-    <option name="LAST_COMMIT_MESSAGE" value="zadanie2 petle" />
+    <MESSAGE value="class and method" />
+    <option name="LAST_COMMIT_MESSAGE" value="class and method" />
   </component>
 </project>

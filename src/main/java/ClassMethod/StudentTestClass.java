@@ -2,6 +2,9 @@ package ClassMethod;
 
 public class StudentTestClass {
     public static void main(String[] args) {
+
+        Student.infoStudy();
+
         Student studentMickey = new Student();
         studentMickey.name = "Mickey";
         studentMickey.surname = "Mouse";
